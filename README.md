@@ -35,6 +35,6 @@
 <a href="mailto:orjona14@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="gmail logo"  />
 </a>
-<a href="[https://www.linkedin.com/in/oriol-jov%C3%A9-naranjo-2b2016207/]" target="_blank">
+<a href="https://www.linkedin.com/in/oriol-jov%C3%A9-naranjo-2b2016207/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin logo"  />
 </a>
