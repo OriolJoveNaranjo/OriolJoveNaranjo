@@ -26,6 +26,7 @@ Soy estudiante de segundo año de DAM (Desarrollo de Aplicaciones Multiplataform
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000?&logo=springboot)
 ![Spring Security](https://img.shields.io/badge/-Spring%20Security-000?&logo=springsecurity)
 ![Spring Data JPA](https://img.shields.io/badge/-Spring%20Data%20JPA-000?&logo=spring)
+![Hibernate](https://img.shields.io/badge/-Hibernate-000?&logo=hibernate)
 ![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-000?&logo=thymeleaf)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap%205-000?&logo=bootstrap)
 ![Maven](https://img.shields.io/badge/-Maven-000?&logo=apachemaven)
@@ -47,7 +48,6 @@ Soy estudiante de segundo año de DAM (Desarrollo de Aplicaciones Multiplataform
 
 ###
 ![JPA Hibernate](https://img.shields.io/badge/-JPA%20Hibernate-000?&logo=hibernate)
-![REST](https://img.shields.io/badge/-REST%20API-000?&logo=postman)
 ![MVC](https://img.shields.io/badge/-MVC-000)
 ![Validaciones](https://img.shields.io/badge/-Bean%20Validation-000)
 
