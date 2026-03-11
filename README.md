@@ -12,6 +12,7 @@ Soy estudiante de segundo año de DAM (Desarrollo de Aplicaciones Multiplataform
 
 ###
 ![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=kotlin)
 ![HTML](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
@@ -31,6 +32,13 @@ Soy estudiante de segundo año de DAM (Desarrollo de Aplicaciones Multiplataform
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap%205-000?&logo=bootstrap)
 ![Maven](https://img.shields.io/badge/-Maven-000?&logo=apachemaven)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+![Android](https://img.shields.io/badge/-Android-000?&logo=android)
+![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-000?&logo=jetpackcompose)
+![Retrofit](https://img.shields.io/badge/-Retrofit-000)
+![Coil](https://img.shields.io/badge/-Coil-000)
+![Kotlin Coroutines](https://img.shields.io/badge/-Coroutines-000)
+![Navigation Compose](https://img.shields.io/badge/-Navigation%20Compose-000)
+![Gradle](https://img.shields.io/badge/-Gradle-000?&logo=gradle)
 
 ###
 
@@ -49,6 +57,8 @@ Soy estudiante de segundo año de DAM (Desarrollo de Aplicaciones Multiplataform
 ###
 ![JPA Hibernate](https://img.shields.io/badge/-JPA%20Hibernate-000?&logo=hibernate)
 ![MVC](https://img.shields.io/badge/-MVC-000)
+![MVVM](https://img.shields.io/badge/-MVVM-000)
+![REST API](https://img.shields.io/badge/-REST%20API-000)
 ![Validaciones](https://img.shields.io/badge/-Bean%20Validation-000)
 
 ###
