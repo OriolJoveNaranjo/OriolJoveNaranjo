@@ -36,7 +36,6 @@ Soy estudiante de segundo año de DAM (Desarrollo de Aplicaciones Multiplataform
 ![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-000?&logo=jetpackcompose)
 ![Retrofit](https://img.shields.io/badge/-Retrofit-000)
 ![Coil](https://img.shields.io/badge/-Coil-000)
-![Kotlin Coroutines](https://img.shields.io/badge/-Coroutines-000)
 ![Navigation Compose](https://img.shields.io/badge/-Navigation%20Compose-000)
 ![Gradle](https://img.shields.io/badge/-Gradle-000?&logo=gradle)
 
